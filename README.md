@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshi-mondal-12&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshi-mondal-12
 " /> </p>
 
-- 👷 <samp>Completed my B.Tech degree in Information Technology (2019-2023) from Shri Shankaracharya Technical Campus, Bhilai, (82.2%)
+- 👷 <samp>Completed my B.Tech in Information Technology (2019-2023) from Shri Shankaracharya Technical Campus, Bhilai, (82.2%)
 - 🔭 <samp>Completed higher secondary education in PCM with Computer Applications from DAV Public School, Bilaspur, CBSE Board.
 - 💬 <samp>Ask me about CP/Data Structure/Html/CSS/Javascript
 - 🌱 <samp>I’m currently learning Frontend/Backend Development
