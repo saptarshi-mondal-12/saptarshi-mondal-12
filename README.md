@@ -5,8 +5,8 @@
 
 - 👷 <samp>Completed my B.Tech in Information Technology (2019-2023) from Shri Shankaracharya Technical Campus, Bhilai, (82.2%)
 - 🔭 <samp>Completed higher secondary education in PCM with Computer Applications from DAV Public School, Bilaspur, CBSE Board.
-- 💬 <samp>Ask me about CP/Data Structure/Html/CSS/Javascript
-- 🌱 <samp>I’m currently learning Frontend/Backend Development
+- 💬 <samp>Ask me about CP/Data Structure/Algorithms/DBMS/Html/CSS/Javascript
+- 🌱 <samp>I’m currently learning Frontend/Backend Development.
 - 📫 <samp>How to reach me saptarishimondal@gmail.com
   
 - ⚡ <samp>Fun fact: I think I’m funny—but not just meme-level funny, more like "build something that changes the world and make people smile while doing it" funny. I'm driven by a wild mix of curiosity, caffeine, and code, with a mission to solve real-world problems through innovative tech. I’m not just chasing trends—I’m here to shape the future. 💡🌍🚀
